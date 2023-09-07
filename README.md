@@ -1,4 +1,13 @@
-T-20 world cup cricket data analytics – Cricket Analysis [Python |  Pandas | Power BI] 
-• Created a Power BI report to identify top 11 players for a T20 cricket team by  cleaning and transforming the data with pandas, and evaluating various player performance metrics.
-• Used the resulting Power BI dashboard to select players for various categories (openers, middle order/anchors, finishers, all-rounders, specialist fast bowlers) and ultimately choose the top 11 players to play in the match. 
-• Selected team using the Power BI dashboard has 95% of chances to win the game.
+
+<body>
+  <div class="container">
+    <h1>T-20 World Cup Cricket Data Analytics - Cricket Analysis</h1>
+    <p><strong>Tools and Technologies:</strong> Python | Pandas | Power BI</p>
+    <p><strong>Overview:</strong></p>
+    <p> This repository showcases a cricket data analytics project focused on the T-20 World Cup 2022.  </p> 
+    <p> Python and Pandas for data cleaning and transformation. </p>  
+    <p>The project's highlight is a Power BI report that aids in selecting the top 11 players across various categories.</p>  
+    <p> Selected team has 95% of chances to win the game.</p>
+  </div>
+</body>
+</html>
